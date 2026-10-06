@@ -1,0 +1,11 @@
+**/saves/
+**/cache/
+**/__pycache__/
+*.rpyc
+Adastra-17-win/renpy/**/*.pyo
+Adastra-17-win/renpy/**/*.pyc
+**/log.txt
+**/traceback.txt
+**/errors.txt
+**/desktop.ini
+**/Thumbs.db
